@@ -1,0 +1,56 @@
+baseurl = "http://example.org/"
+title = "Joshua Casey - Autistic Activist"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+#disqusShortname = "your_disqus_shortname"
+
+[menu]
+  [[menu.header]]
+    identifier = "posts"
+    name = "blog"
+    weight = 1
+    url = "posts/"
+#  [[menu.header]]
+#    parent = "posts"
+#    name = "categories"
+#    url = "/categories"
+  [[menu.header]]
+    parent = "posts"
+    name = "tags"
+    url = "/tags"
+  [[menu.header]]
+    name = "contact"
+    weight = 2
+    url = "contact/"
+  [[menu.header]]
+    name = "donate"
+    weight = 3
+    url = "donate/"
+ 
+
+[params]
+  CvURL = "https://resume.joshuacasey.net"
+  TwitterID = "AutisticJoshua"
+  InstagramID = "JoshuaACasey"
+  MastodonURL = "https://switter.at/@JoshuaACasey"
+  TelegramID = "JoshuaACasey"
+  Email = "joshua@joshuacasey.net"
+  PayPalMeID = "JoshuaACasey"
+  GithubID = "JoshuaACasey"
+  GitlabId = "JoshuaACasey"
+  LinkedInID = "joshuaacasey"
+  RedditID = "JoshuaACasey"
+  GnuPGFingerprint = "98E01E98913C599D477805108DE094ADF2E03AD9"
+
+
+  Name = "Joshua Casey"
+  HeaderUsername = "joshua"
+  HeaderHostname = "joshuacasey.net"
+  About = "Joshua is an introverted autistic person that enjoys video games and is passionate about advocating for human rights, free speech, privacy rights, autistic rights, sex worker rights, climate change, criminal legal system reform, and child sexual abuse prevention."
+  ProfilePicture = "/profilepic.jpg"
+  Favicon = "/favicon.ico"
+
+[sitemap]
+ changefreq = "monthly"
+ filename = "sitemap.xml"
+ priority = 0.5

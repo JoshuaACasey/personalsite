@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joshuacasey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joshuacasey.net
+  * I am joshuacasey (https://keybase.io/joshuacasey) on keybase.
+  * I have a public key ASDsqogF4CY1E3uFFU7xTDxXK5UvxEl7Nn3wONLRGk3ipAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ecaa8805e02635137b85154ef14c3c572b952fc4497b367df038d2d11a4de2a40a",
+      "host": "keybase.io",
+      "kid": "0120ecaa8805e02635137b85154ef14c3c572b952fc4497b367df038d2d11a4de2a40a",
+      "uid": "2b2a4c9d647cf7bfddd4e394a833ad19",
+      "username": "joshuacasey"
+    },
+    "merkle_root": {
+      "ctime": 1614912578,
+      "hash": "55f833cc8495be4dfad6f00e42eb7234b497d18b3aef8d7d8f9f5630e82305842849084120000323c4970a7ed9f4e006f83c114eec50e1cacccc9c9a05c31d82",
+      "hash_meta": "b4fd0e677907e34e759b90626c7edf3a2d2cf921152549c79cf31693fccec841",
+      "seqno": 19295275
+    },
+    "service": {
+      "entropy": "USPEZDgfNMrxkv68pWozHjI9",
+      "hostname": "joshuacasey.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1614912593,
+  "expire_in": 504576000,
+  "prev": "de52142a64523c4842e39dbd8c206cdaee6254cfaf52b7272811beec1aba3ba4",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7KqIBeAmNRN7hRVO8Uw8VyuVL8RJezZ98DjS0RpN4qQKp3BheWxvYWTESpcCFcQg3lIUKmRSPEhC4529jCBs2u5iVM+vUrcnKBG+7Bq6O6TEINJMIUjc17ASra1TnJp+XqdPLbguVX/eg9rJjzee9sd2AgHCo3NpZ8RAuUxKwIvgHH3KqNrmpRiAAmngjVzKXo/C0g6FxZdsgl9Q8Qf4c+Z5m7JvAqAxvbbnvozm3Bo4tZnN+0ddhIgzBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINgfVAWZ57tWPEnhsU/fPKBuXAuRyqmMTxYGcA+LhxG3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshuacasey
+
+==================================================================
