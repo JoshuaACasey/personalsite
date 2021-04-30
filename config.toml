@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = ""
 title = "Joshua Casey - Autistic Activist"
 theme = "hugo-theme-nix"
 languageCode = "en-us"
