@@ -13,7 +13,7 @@ languageCode = "en-us"
   [[menu.header]]
     parent = "post"
     name = "posts"
-    url = "posts/"
+    url = "/posts"
   [[menu.header]]
     parent = "post"
     name = "tags"
