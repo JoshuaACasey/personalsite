@@ -7,6 +7,7 @@ category = "tech"
 tags = ["android", "apps", "list"]  
 keywords = ["tech", "technology", "android", "apps"]  
 series = "state of the apps"
+draft = true
 +++
 
 It's the end of the year. I would like to take some time to review some of the apps that I have installed on my phone that I consider worth recommending. I will maybe separate this into separate categories: productivity, messaging, social, financial, and possibly "honorary mentions".
