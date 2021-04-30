@@ -9,11 +9,11 @@ languageCode = "en-us"
     identifier = "posts"
     name = "blog"
     weight = 1
-    url = "posts/"
-#  [[menu.header]]
-#    parent = "posts"
-#    name = "categories"
-#    url = "/categories"
+#    url = "posts/"
+  [[menu.header]]
+    parent = "posts"
+    name = "posts"
+    url = "/posts"
   [[menu.header]]
     parent = "posts"
     name = "tags"
@@ -21,11 +21,11 @@ languageCode = "en-us"
   [[menu.header]]
     name = "contact"
     weight = 2
-    url = "contact/"
+    url = "/contact"
   [[menu.header]]
     name = "donate"
     weight = 3
-    url = "donate/"
+    url = "/donate"
  
 
 [params]
