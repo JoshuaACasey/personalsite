@@ -6,16 +6,16 @@ languageCode = "en-us"
 
 [menu]
   [[menu.header]]
-    identifier = "posts"
+    identifier = "post"
     name = "blog"
     weight = 1
-#    url = "posts/"
+    url = "posts/"
   [[menu.header]]
-    parent = "posts"
+    parent = "post"
     name = "posts"
-    url = "/posts"
+    url = "posts/"
   [[menu.header]]
-    parent = "posts"
+    parent = "post"
     name = "tags"
     url = "/tags"
   [[menu.header]]
