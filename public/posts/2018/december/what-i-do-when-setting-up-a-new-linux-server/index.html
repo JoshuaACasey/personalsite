@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> What I do when setting up a new linux server &middot; Joshua Casey - Autistic Activist </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.82.0" />
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://joshuacasey.net/css/nix.css">
+
+
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+      <a class="navbar-brand" id="green-terminal" href='https://joshuacasey.net/'>
+        joshua@joshuacasey.net ~ $
+      </a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href='https://joshuacasey.net/'>/home/joshua</a>
+        </li>
+        
+				
+				
+				<li class="dropdown">
+                    
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">blog <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        
+                    		<li>
+                    		<a href="https://joshuacasey.net/posts">~/posts</a>
+				    		</li>
+                		
+                    		<li>
+                    		<a href="https://joshuacasey.net/tags">~/tags</a>
+				    		</li>
+                		
+            		</ul>
+            		
+        		</li>
+        		
+				
+				<li class="dropdown">
+                    
+            		<a href="https://joshuacasey.net/contact">~/contact</a>
+            		
+        		</li>
+        		
+				
+				<li class="dropdown">
+                    
+            		<a href="https://joshuacasey.net/donate">~/donate</a>
+            		
+        		</li>
+        		
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="flex-wrapper">
+            <div class="container wrapper">
+                <h1><a href="https://joshuacasey.net/posts/2018/december/what-i-do-when-setting-up-a-new-linux-server/">What I do when setting up a new linux server</a></h1>
+                <span class="post-date">2018-12-18 </span>
+                <div class="post-content">
+                    <p>This post is a bit more techy. If that&rsquo;s not something that interests you, sorry&hellip;but this is my blog so I get to decide what content is on here. I thought I would write a post detailing the process that I go through when I set up a new linux server (either a remote server or re-installing my Raspberry Pi&hellip;which I will actually be doing very soon, probably in less than 6 hours).</p>
+<p>First of all, I use debian-based linux distros as it is what I am the most familiar with. I have never used CentOS, Fedora, or Arch. After logging in for the first time, as root, here&rsquo;s what I do:</p>
+<pre><code>apt-get update  
+apt-get install build-essential git weget nano ufw dnsutils curl fail2ban logwatch sshguard -y  
+apt-get upgrade -y  
+dpkg-reconfigure locales  
+dpkg-reconfigure tzdata  
+ufw allow 22/tcp  
+ufw allow 443/tcp  
+ufw allow 80/tcp  
+ufw enable  
+</code></pre>
+<p>At the minimum, this is the list of software that I make sure are installed. I also setup a firewall as step one of my security procedures. I then setup my non-root user account.</p>
+<pre><code> adduser joshua
+ nano /etc/sudoers
+ nano /etc/ssh/sshd_config
+</code></pre>
+<p>I give <code>sudo</code> access to the newly created user account. And then part 2 of my security procedures is to lock down <code>ssh</code>. I keep ssh on port 22, disable root login, and disable password login to login with an ssh key.</p>
+<p>Finally, I like to setup a crontab to keep an eye on things with logwatch.</p>
+<pre><code>@weekly /usr/sbin/logwatch --output mail --mailto email@example.com --detail high --range '-7 days'  
+</code></pre>
+<hr>
+<p><a href="https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers">This website</a> and <a href="https://www.linode.com/docs/security/authentication/use-public-key-authentication-with-ssh/">this website</a> have been extremely helpful in helping me setup new servers.</p>
+
+                </div>
+                
+                <div class="post-comments">
+                    
+                </div>
+                
+            </div>
+            <footer class="footer text-center">
+<p>Copyright &copy; 2021 Joshua Casey -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+        </div>
+    </body>

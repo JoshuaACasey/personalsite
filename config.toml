@@ -3,6 +3,11 @@ title = "Joshua Casey - Autistic Activist"
 theme = "hugo-theme-nix"
 languageCode = "en-us"
 #disqusShortname = "your_disqus_shortname"
+enableRobotsTXT = false
+enableEmoji = true
+enableGitInfo = true
+buildDrafts = false
+buildFuture = false
 
 [menu]
   [[menu.header]]
