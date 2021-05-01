@@ -1,5 +1,6 @@
 baseurl = "https://joshuacasey.net"
 title = "Joshua Casey - Autistic Activist"
+description = "Joshua is an autistic activist that enjoys video games and is passionate about human rights, free speech, privacy, autistic rights, sex worker rights, the climate change, criminal legal system reform, and child sexual abuse prevention."
 theme = "hugo-theme-nix"
 languageCode = "en-us"
 #disqusShortname = "your_disqus_shortname"
