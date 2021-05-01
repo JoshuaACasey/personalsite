@@ -56,4 +56,4 @@ languageCode = "en-us"
  priority = 0.5
 
  [permalinks]
-  posts = "/:year/:monthname/:slug/"
+  posts = "/posts/:year/:monthname/:slug/"
