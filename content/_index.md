@@ -49,4 +49,3 @@ Or you can support me directly by sending me money which helps me stay alive by 
 <a rel="me" href="https://switter.at/@joshuaacasey"></a>
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "933591247b8246ce92885b3aabedbb47"}'></script><!-- End Cloudflare Web Analytics -->
-<!-- Site Tag 342b03dcf54743b089231ac995785b37 -->
