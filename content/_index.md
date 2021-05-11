@@ -47,5 +47,4 @@ Or you can support me directly by sending me money which helps me stay alive by 
 <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
 <script src="https://redalert.battleforthenet.com/widget.js" async></script>
 <a rel="me" href="https://qoto.org/@JoshuaACasey">Mastodon</a>
-
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "933591247b8246ce92885b3aabedbb47"}'></script><!-- End Cloudflare Web Analytics -->

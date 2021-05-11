@@ -52,7 +52,7 @@ buildFuture = false
   Name = "Joshua Casey"
   HeaderUsername = "joshua"
   HeaderHostname = "joshuacasey.net"
-  About = """Joshua is an introverted autistic person that enjoys video games and is passionate about advocating for human rights, free speech, privacy rights, autistic rights, sex worker rights, climate change, criminal legal system reform, and child sexual abuse prevention. <a rel="me" href="https://qoto.org/@JoshuaACasey"></a> """
+  About = "Joshua is an introverted autistic person that enjoys video games and is passionate about advocating for human rights, free speech, privacy rights, autistic rights, sex worker rights, climate change, criminal legal system reform, and child sexual abuse prevention."
   ProfilePicture = "/profilepic.jpg"
   Favicon = "/favicon.ico"
 
