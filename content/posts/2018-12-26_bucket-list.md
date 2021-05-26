@@ -5,6 +5,7 @@ lastmod = "2019-08-19"
 category = "blog"  
 tags = "bucket list"  
 keywords = "bucket list"  
+draft = true
 +++
 
 I'm a big fan of lists, checklists, and to-do lists. It's only natural that the idea of a "bucket list" is something that I am a fan of. Here is mine (I will probably update it frequently so feel free to check back from time to time):  
