@@ -8,18 +8,17 @@ _Using the following Referral links helps support me._
 
 - [DigitalOcean](https://m.do.co/c/1148933d9638)  
 - [Todoist](https://todoist.com/r/joshua_mvcbsg)  
-- [Google Fi](https://g.co/fi/r/74K431)  
 - [Public](https://share.public.com/joshuaacasey)  
 - [Coinbase](https://www.coinbase.com/join/casey_ts)  
+- [Google Fi](https://g.co/fi/r/74K431)  
+
 
 Or you can support me directly by sending me money which helps me stay alive by feeding me :)  
 
-- **Ethereum (preferred):** `0x66c750eb10E18a63f1907fCD430d985AdeA93D81`  
-- **Bitcoin (preferred):** `1F82oNH9RU4MGMcthzTBVxfc8MzvP8DVww`  
+- **Ethereum (preferred):** `0x1663355cBD6811217d8f571687aDEdf4C16a3c6a`  
+- **Bitcoin (preferred):** `bc1q9jxc40lx9lnaknuxjxmx6f07zm7a5f5ux79kdt`  
+- **Zcash:** `t1f4TZang257KMUPGt6AgwxQEF778vNwoX7`  
 - **Cashapp:** [$JoshuaCasey90](https://cash.app/$JoshuaCasey90)  
-- **Stellar:** `GDPJXJNEIZFG7ZSHH2DCSMPHMV66BBKBMPINHJ2COAAP7J5EY245T3RP`  
-- **BAT:** `0xd538eb560E819D99218b27487d63e19976B7e077`  
-- **Zcash:** `t1aQvqoFpCknpoDBuV9HMLfcFm2pwXAKfQy`  
 - **Paypal:** [paypal.me/JoshuaACasey](https://paypal.me/JoshuaACasey)  
 - **Steam:** [Steam Wishlist](https://store.steampowered.com/wishlist/id/JoshuaACasey)  
 - **Amazon:** [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3T6HSYB01WR7W)  
