@@ -10,6 +10,7 @@ _Using the following Referral links helps support me._
 - [Todoist](https://todoist.com/r/joshua_mvcbsg)  
 - [Public](https://share.public.com/joshuaacasey)  
 - [Coinbase](https://www.coinbase.com/join/casey_ts)  
+- [Ting](https://zn5ssqbjq181.ting.com/)  
 - [Google Fi](https://g.co/fi/r/74K431)  
 
 
