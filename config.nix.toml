@@ -39,12 +39,14 @@ buildFuture = false
   TwitterID = "AutisticJoshua"
   InstagramID = "JoshuaACasey"
   MastodonURL = "https://qoto.org/@JoshuaACasey"
+  TelegramID = "JoshuaACasey"
   Email = "joshua@joshuacasey.net"
+  PayPalMeID = "JoshuaACasey"
   GithubID = "JoshuaACasey"
   GitlabId = "JoshuaACasey"
   LinkedInID = "joshuaacasey"
   RedditID = "JoshuaACasey"
-
+  GnuPGFingerprint = "946CFE6B256EE8EA37A3A7262E23A333ECAE0E6B"
 
   Name = "Joshua Casey"
   HeaderUsername = "joshua"
