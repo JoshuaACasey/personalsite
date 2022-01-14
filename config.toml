@@ -15,15 +15,15 @@ buildFuture = false
     identifier = "post"
     name = "blog"
     weight = 1
-    url = "post/"
+    url = "/posts"
   [[menu.header]]
     parent = "post"
     name = "posts"
     url = "/posts"
-  [[menu.header]]
-    parent = "post"
-    name = "tags"
-    url = "/tags"
+  #[[menu.header]]
+  #  parent = "post"
+  #  name = "tags"
+  #  url = "/tags"
   [[menu.header]]
     name = "contact"
     weight = 2
@@ -36,16 +36,27 @@ buildFuture = false
 
 [params]
   CvURL = "https://resume.joshuacasey.net"
-  TwitterID = "AutisticJoshua"
-  InstagramID = "JoshuaACasey"
-  MastodonURL = "https://qoto.org/@JoshuaACasey"
   Email = "joshua@joshuacasey.net"
+  #FacebookID = ""
   GithubID = "JoshuaACasey"
   GitlabId = "JoshuaACasey"
+  #GnuPGFingerprint = ""
+  #GoogleAnalytics = ""
+  #InstagramID = "JoshuaACasey"
   LinkedInID = "joshuaacasey"
+  MastodonURL = "https://qoto.org/@JoshuaACasey"
+  #Mobile = ""
+  PayPalMeID = "https://paypal.me/JoshuaACasey"
+  #Phone = ""
   RedditID = "JoshuaACasey"
-
-
+  #SlackURL = ""
+  #SpotifyID = ""
+  #StackExchangeID = ""
+  #StackOverflowID = ""
+  TelegramID = "JoshuaACasey"
+  TwitterID = "AutisticJoshua"
+  
+    
   Name = "Joshua Casey"
   HeaderUsername = "joshua"
   HeaderHostname = "joshuacasey.net"
