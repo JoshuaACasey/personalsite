@@ -3,7 +3,7 @@ title = "What I do when setting up a new linux server"
 date = "2018-12-18" 
 lastmod = "2019-08-20"  
 category = "tech"
-tags = ["linux", "server"]
+tags = ["technology", "linux", "server"]
 keywords = ["tech", "technology", "servers", "linux", "ubuntu", "debian"]    
 +++
 

@@ -3,8 +3,8 @@ title = "Why did I start blogging"
 date = "2019-08-11"  
 lastmod = "2019-08-19"  
 category = "blog"  
-tags = "personal"  
-keywords = ["blogging", "writing", "wordpress", "tumblr", "english class", "writing fiction"]
+tags = ["personal", "journal"]  
+keywords = ["blogging", "writing", "wordpress", "tumblr", "english", "fiction"]
 +++
 
 Over the years of my life I have tried many times to start blogging and do it on a frequent basis. All previous attempts have never really been a success. There are a couple of reasons why I decided to start writing blog posts on this website. The first reason is that I host this website myself (for free). I don't have to rely on Wordpress or Tumblr or any other blogging platform.  

@@ -4,7 +4,7 @@ title = "Why is making friends so hard"
 date = "2018-12-14"  
 lastmod = "2019-08-19"  
 category = "blog"
-tags = ["personal", "anxiety"]  
+tags = ["anxiety", "social anxiety", "autism", "journal", "personal"]  
 keywords = ["personal", "autism", "social anxiety", "anxiety", "friends"]   
 +++
 

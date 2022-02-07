@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /404
-Disallow: links.joshuacasey.net
-Sitemap: https://joshuacasey.net/sitemap.xml

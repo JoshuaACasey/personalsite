@@ -3,7 +3,7 @@ title = "State of the Apps 2018"
 date = "2018-12-31" 
 lastmod = "2019-08-19"  
 category = "tech"
-tags = ["android", "apps", "list"]  
+tags = ["technology", "list", "android", "apps"]  
 keywords = ["tech", "technology", "android", "apps"]  
 series = "state of the apps"
 +++

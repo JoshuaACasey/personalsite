@@ -1,73 +1,206 @@
 baseurl = "https://joshuacasey.net"
-title = "Joshua Casey - Autistic Activist"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Joshua Casey - Autistic Adult Activist"
 description = "Joshua is an autistic activist that enjoys video games and is passionate about human rights, free speech, privacy, autistic rights, sex worker rights, the climate change, criminal legal system reform, and child sexual abuse prevention."
-theme = "hugo-theme-nix"
-languageCode = "en-us"
-#disqusShortname = "your_disqus_shortname"
-enableRobotsTXT = false
+theme = "KeepIt"
+
+paginate = 10
 enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+#disqusShortname = ""
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+  posts = "/posts/:year/:monthname/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  #[[menu.main]]
+  #  name = "Categories"
+  #  url = "/categories/"
+  #  weight = 3
+  
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
+
+[params]
+    since = 2013
+    author = "Joshua Casey"
+    subtitle = "Autistic Adult Activist"
+    #cdn_url = ""
+    #home_mode = "post"
+    dateFormatToUse = "January 1 2006"
+
+    google_verification = ""
+    bing_verification = ""
+    #yandex_verification = ""
+    #pinterest_verification = ""
+    #baidu_verification = ""
+
+    avatar = "/profilepic.jpg"
+    socialShare = true
+
+    description = "Joshua is an autistic adult activist that enjoys video games and is passionate about human rights, free speech, privacy, autistic rights, sex worker rights, the climate change, criminal legal system reform, and child sexual abuse prevention."
+    keywords = "Joshua Casey, autistic, activist, human rights, privacy, free speech"
+
+    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+[params.gravatar]
+    #email = "joshua@joshuacasey.net"
+
+[params.social]
+    GitHub = "JoshuaACasey"
+    Linkedin = "joshuaacasey"
+    Twitter = "AutisticJoshua"
+    #Instagram = ""
+    Email = "Joshua@joshuacasey.net"
+    #Facebook = ""
+    Telegram = "JoshuaACasey"
+    #Medium = ""
+    #Gitlab = ""
+    #Youtubelegacy = ""
+    #Youtubecustom = ""
+    #Youtubechannel = ""
+    #Tumblr = ""
+    #Quora = "
+    Keybase = "JoshuaCasey"
+    #Pinterest = ""
+    Reddit = "JoshuaACasey"
+    #Codepen = ""
+    #Bitbucket = ""
+    #Stackoverflow = ""
+    #Weibo = ""
+    #Odnoklassniki = ""
+    #VKontakte = ""
+    #Flickr = ""
+    #Xing = ""
+    #Snapchat = ""
+    #Soundcloud = ""
+    #Spotify = ""
+    #Bandcamp = ""
+    #Paypal = "joshuaacasey"
+    #Fivehundredpx = ""
+    #Mix = ""
+    #Goodreads = ""
+    #Lastfm = ""
+    #Foursquare = ""
+    #Hackernews = ""
+    #Kickstarter = ""
+    #Patreon = ""
+    Steam = "JoshuaACasey"
+    Twitch = "JoshuaACasey"
+    #Strava = ""
+    #Skype = ""
+    #Whatsapp = ""
+    #Zhihu = ""
+    #Douban = ""
+    #Angellist = ""
+    #Slidershare = ""
+    #Jsfiddle = ""
+    #Deviantart = ""
+    #Behance = ""
+    #Dribble = ""
+    #Wordpress = ""
+    #Vine = "vine is dead"
+    #Googlescholar = ""
+    #Researchgate = ""
+    Mastodon = "https://qoto.org/@JoshuaACasey"
+    #Thingiverse = ""
+
+[params.share]
+Twitter = true
+#Facebook = true
+Reddit = true
+#Linkedin = true
+#Pinterest = true
+#HackerNews = true
+#Mix = true
+#Tumblr = true
+#VKontakte = true
+#Douban = true
+#Weibo = true
+
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
+
+[author]
+  name = "Joshua Casey"
+
+  [params.publisher]
+    name = "Joshua Casey"
+
+    [params.publisher.logo]
+      url = "icons/favicon.ico"
+      width = 127
+      height = 40
+
+    [params.logo]
+      url = "icons/favicon.ico"
+      width = 127
+      height = 40
+
+    #[params.image]
+    #  url = "cover.png"
+    #  width = 800
+    #  height = 600
+
+#[params.gitalk]
+#owner = ""       # Your GitHub ID
+#repo = ""        # The repo to store comments
+#clientId = ""    # Your client ID
+#clientSecret = "" # Your client secret
+
+#[params.valine]
+#  enable = false
+#  language = 'en'
+#  appId = 'your appId'
+#  appKey = 'your appKey'
+#  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+#  verify = false # Verification code
+#  avatar = 'mm'
+#  placeholder = 'your comments ...'
+#  visitor = true
+
+[params.utterances]       # https://utteranc.es/
+    owner = "JoshuaACasey"              # Your GitHub ID
+    repo = "personalsite_comments"               # The repo to store comments
+
+#[params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+#    owner = ""              # Your GitHub ID
+#    repo = ""               # The repo to store comments
+#    clientId = ""           # Your client ID
+#    clientSecret = ""       # Your client secret
+
+# ---------- old ------------------
 enableGitInfo = true
 buildDrafts = false
 buildFuture = false
 
-[menu]
-  [[menu.header]]
-    identifier = "post"
-    name = "blog"
-    weight = 1
-    url = "/posts"
-  [[menu.header]]
-    parent = "post"
-    name = "posts"
-    url = "/posts"
-  #[[menu.header]]
-  #  parent = "post"
-  #  name = "tags"
-  #  url = "/tags"
-  [[menu.header]]
-    name = "contact"
-    weight = 2
-    url = "/contact"
-  [[menu.header]]
-    name = "donate"
-    weight = 3
-    url = "/donate"
- 
-
-[params]
-  CvURL = "https://resume.joshuacasey.net"
-  Email = "joshua@joshuacasey.net"
-  #FacebookID = ""
-  GithubID = "JoshuaACasey"
-  GitlabId = "JoshuaACasey"
-  #GnuPGFingerprint = ""
-  #GoogleAnalytics = ""
-  #InstagramID = "JoshuaACasey"
-  LinkedInID = "joshuaacasey"
-  MastodonURL = "https://qoto.org/@JoshuaACasey"
-  #Mobile = ""
-  PayPalMeID = "https://paypal.me/JoshuaACasey"
-  #Phone = ""
-  RedditID = "JoshuaACasey"
-  #SlackURL = ""
-  #SpotifyID = ""
-  #StackExchangeID = ""
-  #StackOverflowID = ""
-  TelegramID = "JoshuaACasey"
-  TwitterID = "AutisticJoshua"
-  
+#  [[menu.header]]
+#    name = "contact"
+#    weight = 2
+#    url = "/contact"
+#  [[menu.header]]
+#    name = "donate"
+#    weight = 3
+#    url = "/donate"
     
-  Name = "Joshua Casey"
-  HeaderUsername = "joshua"
-  HeaderHostname = "joshuacasey.net"
-  About = "I'm an introverted autistic person that enjoys video games and passionate about advocating for human rights, free speech, privacy, anti-censorship, autistic people's rights, sex worker's rights, climate change, criminal legal system reform, and child sexual abuse prevention. In December 2021, I became a Social Media Manager for Prostasia Foundation, a child protection and human rights organization."
-  ProfilePicture = "/profilepic.jpg"
-  Favicon = "/favicon.ico"
+#  About = "I'm an introverted autistic person that enjoys video games and passionate about advocating for human rights, free speech, privacy, anti-censorship, autistic people's rights, sex worker's rights, climate change, criminal legal system reform, and child sexual abuse prevention. In December 2021, I became a Social Media Manager for Prostasia Foundation, a child protection and human rights organization."
+#  Favicon = "/favicon.ico"
 
-[sitemap]
- changefreq = "weekly"
- filename = "sitemap.xml"
- priority = 0.5
-
- [permalinks]
-  posts = "/posts/:year/:monthname/:slug/"
