@@ -2,7 +2,7 @@ baseurl = "https://joshuacasey.net"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Joshua Casey - Autistic Adult Activist"
-description = "Joshua is an autistic activist that enjoys video games and is passionate about human rights, free speech, privacy, autistic rights, sex worker rights, the climate change, criminal legal system reform, and child sexual abuse prevention."
+description = "Joshua is an autistic adult activist that enjoys video games and is passionate about using social media to advocate for the many causes he is passionate about."
 theme = "KeepIt"
 
 paginate = 10
@@ -38,7 +38,7 @@ googleAnalytics = ""
   [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 4
+    weight = 2
 
 [params]
     since = 2013
@@ -49,7 +49,7 @@ googleAnalytics = ""
     dateFormatToUse = "January 1 2006"
 
     google_verification = ""
-    bing_verification = ""
+    bing_verification = "739AFB5FC07A46D2E5CAA0B8B1326339"
     #yandex_verification = ""
     #pinterest_verification = ""
     #baidu_verification = ""
@@ -57,7 +57,7 @@ googleAnalytics = ""
     avatar = "/profilepic.jpg"
     socialShare = true
 
-    description = "Joshua is an autistic adult activist that enjoys video games and is passionate about human rights, free speech, privacy, autistic rights, sex worker rights, the climate change, criminal legal system reform, and child sexual abuse prevention."
+    description = "Joshua is an autistic adult activist that enjoys video games and is passionate about using social media to advocate for the many causes he is passionate about."
     keywords = "Joshua Casey, autistic, activist, human rights, privacy, free speech"
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'

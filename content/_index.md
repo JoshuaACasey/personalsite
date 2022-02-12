@@ -1,6 +1,6 @@
 +++
 author = "Joshua Casey"
-description = "Joshua is an autistic adult activist that enjoys video games and is passionate about human rights, free speech, privacy, autistic rights, sex worker rights, the climate change, criminal legal system reform, and child sexual abuse prevention." # set your site's description here. will be use for home page content meta tags (seo).
+description = "Joshua is an autistic adult activist that enjoys video games and is passionate about using social media to advocate for the many causes he is passionate about." # set your site's description here. will be use for home page content meta tags (seo).
 +++
 ---
 
