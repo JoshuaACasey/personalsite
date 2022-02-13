@@ -146,12 +146,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "Joshua Casey"
 
     [params.publisher.logo]
-      url = "icons/favicon.ico"
+      url = "favicon.ico"
       width = 127
       height = 40
 
     [params.logo]
-      url = "icons/favicon.ico"
+      url = "favicon.ico"
       width = 127
       height = 40
 
