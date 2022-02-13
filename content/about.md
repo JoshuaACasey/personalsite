@@ -24,30 +24,30 @@ I'm an autistic adult that enjoys video games and passionate about advocating fo
 
 Feel free to use my referral links for these awesome services.  
 
-## Productivity Tools  
+# Productivity Tools  
 
 - [Todoist](https://todoist.com/r/joshua_mvcbsg)  
 - [Rescuetime](https://www.rescuetime.com/ref/2615801)  
 
-## Cell Phone provider  
+# Cheap Cell Phone provider  
 
 - [Ting](https://zn5ssqbjq181.ting.com/)  
 
-## Cheap VPS hosting  
+# Cheap VPS hosting  
 
 - [DigitalOcean](https://m.do.co/c/1148933d9638)  
 
-## Financial Apps  
+# Financial Apps  
 
 - [Acorns](https://share.acorns.com/jacnoc)  
 - [Public](https://share.public.com/joshuaacasey)  
 - [Coinbase](https://www.coinbase.com/join/casey_ts)  
 
-## Gaming/Charity  
+# Gaming/Charity  
 
 - [Humble Bundle](https://www.humblebundle.com/?partner=joshuaacasey&charity=4143986)  
 
-## Misc  
+# Misc  
 
 - [WhatPulse](http://whatpulse.org/ref/207367/)
 
