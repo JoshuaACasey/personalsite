@@ -4,8 +4,9 @@ title = "Why is making friends so hard"
 date = "2018-12-14"  
 lastmod = "2019-08-19"  
 category = "blog"
-tags = ["anxiety", "social anxiety", "autism", "journal", "personal"]  
-keywords = ["personal", "autism", "social anxiety", "anxiety", "friends"]   
+tags = ["personal"]  
+keywords = ["autistic", "anxious", "anxiety", "friends"]  
+draft = true
 +++
 
 I'm not really sure why I'm writing something so personal. Mostly I have a lot of anxious thoughts that I need to get out of my head and nobody to talk to. This seems like the only place where I can turn. December has been one hell of an anxious month. It all started a couple days after the month began, when this really kind person that I met on Twitter blocked me on Twitter and Instagram for an unknown reason. I was, and still am, devastated. If past experience is any indicator, I'll probably always be devastated. It definitely makes you feel like a failure when you meet someone that you're interested in building a friendship with and then they decide to block you and cut you out of their life. The anxiety was so bad this particular time I spent nearly the whole week in bed and barely able to eat anything (saltine crackers were my savior) because my stomach was doing anxiety gymnastics. I didn't, and currently still don't, understand why I got blocked because me and this person have always been really nice to each other. Although I have a theory that it's a misunderstanding because those happen to me a lot (more on that later).
