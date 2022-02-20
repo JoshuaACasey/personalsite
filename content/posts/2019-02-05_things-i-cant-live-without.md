@@ -1,6 +1,6 @@
 +++
 title = "Things I can't live without"  
-date = "2019-02-05 01:00"  
+date = "2019-02-05"  
 lastmod = "2019-08-19"  
 category = "blog"  
 tags = ["journal", "personal", "list"]  

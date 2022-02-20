@@ -1,6 +1,6 @@
 +++
 title = "100 things I love"  
-date = "2019-03-30 00:00"  
+date = "2019-03-30"  
 category = "blog"  
 tags = ["list", "journal", "personal"]   
 keywords = "list"  
