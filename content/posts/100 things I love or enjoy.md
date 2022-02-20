@@ -13,28 +13,22 @@ draft = true
 4. Advocacy
 5. Social Media
 6. Food
-   1. Pizza
-      1. Pizza Hut
-      2. Giordano's
-      3. Tombstone Pizza
-   2. Spaghetti
-   3. Macaroni & Cheese
-7.  
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
+   7. Pizza
+      8. Pizza Hut
+      9. Giordano's
+      10. Tombstone Pizza
+   11. Spaghetti
+   12. Macaroni & Cheese
+   13. Macaroni & Tomatoes
+   14. Bacon & Tomato sandwichs
+   15. Taco Salad
+   16. Taco Bell
+   17. White Castle
+   18. McDonald's
+   19. Portillo's
+   20. KFC
+   21. Chipotle
+   22. Subway
 23.
 24.
 25.
