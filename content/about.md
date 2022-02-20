@@ -6,7 +6,7 @@ aliases = ["about-me","about","contact", "donate"]
 #slug = "about"
 +++
 
-I'm an autistic adult that enjoys video games and passionate about advocating for human rights, free speech, privacy, anti-censorship, autistic people's rights, sex worker's rights, climate change, criminal legal system reform, and child sexual abuse prevention. In December 2021, I became a Social Media Manager for Prostasia Foundation, a child protection and human rights organization.
+I'm an autistic adult that enjoys video games and passionate about advocating for human rights, free speech, privacy, anti-censorship, autistic people's rights, sex worker's rights, climate change, criminal legal system reform, and child sexual abuse prevention. In December 2021, I became a Social Media Manager for [Prostasia Foundation](https://prostasia.org/about/), a child protection and human rights organization.
 
 ---
 
