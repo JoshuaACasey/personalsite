@@ -1,6 +1,6 @@
 +++
 title = "I have a job (sort of)"  
-date = "2022-02-20 00:00"  
+date = "2022-02-20"  
 category = "blog"  
 tags = ["new job", "child protection", "personal"]   
 keywords = ["child protection", "prostasia Foundation"]  
