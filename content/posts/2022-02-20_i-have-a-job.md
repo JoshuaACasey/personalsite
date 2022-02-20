@@ -17,6 +17,6 @@ As a very pro-science person myself -- I'm an avid supporter [Greta Thunberg](ht
 
 I joined Prostasia's team as Social Media Manager in December 2021. I am thrilled to be part of this organization and to help do my part to make the world a better and safer place. After doing independent advocacy for preventing child abuse for the previous 3 years, it felt like my advocacy efforts had been noticed when Prostasia's now former Program Director reached out and asked if I would be willing to help out. Let's get back to that "job" part. While, yes, it is a job. I am not paid, so *technically* I am a volunteer. I am thrilled to be a volunteer though. Yes, as an unemployed autistic person it would certainly be wonderful to be paid. But I am so passionate about the wonderful cause of preventing child abuse (just as I am passionate about all the other causes that I support, like human rights and free speech), that I am completely happy to do this work as a volunteer. I'm really just honored to be given this opportunity to help out!  
 
-## Blog Update  
+# Blog Update  
 
 I know that it has been a long time since my last blog post. I have always been really bad at blogging. I'm not a very good writer. I can *sort of* write fiction -- and even then I am pretty bad at it! Writing stuff that is not fiction is significantly more challenging. I would like to try to blog more, but don't count on it. I actually would like to re-write two previous blog posts so that hopefully they can be written a little better.  
