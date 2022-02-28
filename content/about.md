@@ -12,10 +12,9 @@ I'm an autistic adult that enjoys video games and passionate about advocating fo
 
 # Get in touch!  
 
-- **Email:** joshua@joshuacasey.net  
-- **[Element](https://element.io)**: JoshuaACasey:matrix.org  
-- **Keybase**: [JoshuaCasey](https://keybase.io/JoshuaCasey)  
+- **Email:** joshua [at] joshuacasey [dot] net  
 - **Telegram**: [JoshuaACasey](https://t.me/JoshuaACasey)  
+- **Keybase**: [JoshuaCasey](https://keybase.io/JoshuaCasey)  
 - **[Session](https://getsession.org):** `0500549cc2681106711027708b4b3ff0157c3ded96cc4f3e524ecfeb196c75cc21`  
 
 ---
@@ -41,7 +40,7 @@ Feel free to use my referral links for these awesome services.
 
 - [Acorns](https://share.acorns.com/jacnoc)  
 - [Public](https://share.public.com/joshuaacasey)  
-- [Coinbase](https://www.coinbase.com/join/casey_ts)  
+<!-- - [Coinbase](https://www.coinbase.com/join/casey_ts) -->  
 
 # Gaming/Charity  
 
