@@ -5,7 +5,6 @@ lastmod = "2022-03-04"
 category = "blog"  
 tags = ["podcasts"]
 keywords = ["podcasts", "hello internet", "cortex", "pornhub podcast", "relay.fm", "amplified voices", "youre wrong about", "Prostasia Foundation"]
-draft = true  
 +++
 
 I've been listening to podcasts for a couple years. Most of the time when listening to a podcast I will be driving a virtual truck making virtual deliveries either in [Euro Truck Simulator 2](https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/) or, more recently, in [American Truck Simulator](https://store.steampowered.com/app/270880/American_Truck_Simulator/). Over the course of roughly about the past year I started listening to my podcasts at 1.5x speed so that it takes less time to listen to the episodes. It sounds a little funny at first, but you get use to it surprisingly quick. My podcast app of choice is [Pocket Casts](https://www.pocketcasts.com/), which is multi-platform and available on Windows, Mac, Android, iOS, and they even have a [Web Player](https://play.pocketcasts.com/). And it syncs your listening progress across all your devices! Alright, lets dive in and talk about some of the podcasts that I listen to:  
