@@ -12,27 +12,36 @@ I'm an autistic adult that enjoys video games and passionate about advocating fo
 
 # Get in touch!  
 
-- **Email:** joshua [at] joshuacasey [dot] net  
-- **Telegram**: [JoshuaACasey](https://t.me/JoshuaACasey)  
-- **Keybase**: [JoshuaCasey](https://keybase.io/JoshuaCasey)  
+- **Email:** joshua [at] joshuacasey [dot] net  (RECOMMENDED)  
 - **[Session](https://getsession.org):** `0500549cc2681106711027708b4b3ff0157c3ded96cc4f3e524ecfeb196c75cc21`  
+- **Matrix**: @joshuacasey:matrix.org  
+<!-- - **Keybase**: [JoshuaCasey](https://keybase.io/JoshuaCasey)  
+ - **Telegram**: [JoshuaACasey](https://t.me/JoshuaACasey) -->
+
 
 ---
 
 # Help support me!  
 
+You can support me directly by [donating](https://streamelements.com/joshuaacasey/tip) or by buying something off my wishlist:  
+
 Feel free to use my referral links for these awesome services.  
+
+- **Steam:** [Steam Wishlist](https://store.steampowered.com/wishlist/id/JoshuaACasey)  
+- **Amazon:** [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2ETVHTP1HXD4V?ref_=wl_share)  
+
+Or you can "indirectly" support me by using my referral codes for any of these cool products and services below:  
 
 # Productivity Tools  
 
 - [Todoist](https://todoist.com/r/joshua_mvcbsg)  
 - [Rescuetime](https://www.rescuetime.com/ref/2615801)  
 
-# Cheap Cell Phone provider  
+# Cell Phone provider  
 
 - [Ting](https://zn5ssqbjq181.ting.com/)  
 
-# Cheap VPS hosting  
+# VPS hosting  
 
 - [DigitalOcean](https://m.do.co/c/1148933d9638)  
 
@@ -50,11 +59,6 @@ Feel free to use my referral links for these awesome services.
 
 - [WhatPulse](http://whatpulse.org/ref/207367/)
 
-
-Or feel free to support me directly:  
-
-- **Steam:** [Steam Wishlist](https://store.steampowered.com/wishlist/id/JoshuaACasey)  
-- **Amazon:** [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2ETVHTP1HXD4V?ref_=wl_share)  
 
 ---
 
