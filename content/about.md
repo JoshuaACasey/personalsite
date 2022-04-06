@@ -25,10 +25,8 @@ I'm an autistic adult that enjoys video games and passionate about advocating fo
 
 You can support me directly by [donating](https://streamelements.com/joshuaacasey/tip) or by buying something off my wishlist:  
 
-Feel free to use my referral links for these awesome services.  
-
 - **Steam:** [Steam Wishlist](https://store.steampowered.com/wishlist/id/JoshuaACasey)  
-- **Amazon:** [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2ETVHTP1HXD4V?ref_=wl_share)  
+- **Amazon:** [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3T6HSYB01WR7W?ref_=wl_share)  
 
 Or you can "indirectly" support me by using my referral codes for any of these cool products and services below:  
 
