@@ -30,15 +30,15 @@ googleAnalytics = ""
     url = "/posts/"
     weight = 1
 
-  #[[menu.main]]
-  #  name = "Categories"
-  #  url = "/categories/"
-  #  weight = 3
-  
   [[menu.main]]
     name = "About"
     url = "/about"
     weight = 2
+
+  #[[menu.main]]
+  #  name = "Categories"
+  #  url = "/categories/"
+  #  weight = 3
 
 [params]
     since = 2013
@@ -69,9 +69,9 @@ googleAnalytics = ""
     GitHub = "JoshuaACasey"
     Linkedin = "joshuaacasey"
     Twitter = "AutisticJoshua"
-    #Instagram = ""
+    Instagram = "JoshuaACasey"
     Email = "Joshua@joshuacasey.net"
-    #Facebook = ""
+    Facebook = "JoshuaACasey"
     Telegram = "JoshuaACasey"
     #Medium = ""
     #Gitlab = ""
@@ -91,7 +91,7 @@ googleAnalytics = ""
     #VKontakte = ""
     #Flickr = ""
     #Xing = ""
-    #Snapchat = ""
+    Snapchat = "JoshuaACasey"
     #Soundcloud = ""
     #Spotify = ""
     #Bandcamp = ""
